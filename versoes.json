@@ -14,8 +14,11 @@
       "publicada": "2026-11-09 10:44"
     },
     "1.6.1-20261109-1052": {
-      "status": "ativa",
-      "publicada": "2026-11-09 10:52"
+      "status": "desativada",
+      "publicada": "2026-11-09 10:52",
+      "motivo": "motivos/2026-11-v1.6.1-bug.md",
+      "mensagem": "Versao com bug. Baixe a versao 1.6.2.",
+      "desde": "2026-11-09 10:57"
     },
     "1.6.2-20261109-1056": {
       "status": "ativa",
