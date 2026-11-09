@@ -26,6 +26,7 @@ Ao abrir, o exe consulta o [`versoes.json`](versoes.json) deste repositório:
 Se o exe estiver abaixo da `minima.versao`, ele também fica desativado.
 Compilações fora da lista seguem a regra `desconhecida`.
 Sem internet, o exe abre normalmente, a não ser que já tenha sido visto como desativado naquela máquina.
+Mudanças aqui levam até ~5 minutos para chegar aos exe (cache do GitHub).
 
 O motivo de cada desativação fica em [`motivos/`](motivos), com as orientações de como proceder
 e o link da versão nova.
