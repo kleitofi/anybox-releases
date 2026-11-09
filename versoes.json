@@ -10,8 +10,11 @@
   },
   "builds": {
     "9.9.9-20261109-0000": {
-      "status": "ativa",
-      "publicada": "2026-11-09 10:34"
+      "status": "desativada",
+      "publicada": "2026-11-09 10:34",
+      "motivo": "motivos/teste-ciclo.md",
+      "mensagem": "Teste do ciclo de desativacao.",
+      "desde": "2026-11-09 10:34"
     }
   }
 }
