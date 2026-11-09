@@ -1,0 +1,12 @@
+{
+  "_leia": "Status de cada compilacao do AnyBox.exe. O exe consulta este arquivo ao abrir. Ver README.md.",
+  "desconhecida": {
+    "status": "ativa"
+  },
+  "minima": {
+    "versao": "",
+    "motivo": "",
+    "mensagem": ""
+  },
+  "builds": {}
+}
