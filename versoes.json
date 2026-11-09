@@ -4,9 +4,10 @@
     "status": "ativa"
   },
   "minima": {
-    "versao": "",
-    "motivo": "",
-    "mensagem": ""
+    "versao": "1.6.2",
+    "motivo": "motivos/2026-11-minima-1.6.2.md",
+    "mensagem": "Versoes anteriores a 1.6.2 foram desativadas. Baixe a versao atual.",
+    "desde": "2026-11-09 11:20"
   },
   "builds": {
     "1.6.0-20261109-1044": {
