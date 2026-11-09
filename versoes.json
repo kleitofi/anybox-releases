@@ -8,5 +8,10 @@
     "motivo": "",
     "mensagem": ""
   },
-  "builds": {}
+  "builds": {
+    "9.9.9-20261109-0000": {
+      "status": "ativa",
+      "publicada": "2026-11-09 10:34"
+    }
+  }
 }
