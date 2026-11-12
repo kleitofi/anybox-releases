@@ -4,64 +4,46 @@
     "status": "ativa"
   },
   "minima": {
-    "versao": "1.7.0",
-    "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-    "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-    "desde": "2026-11-12 17:10"
+    "versao": "",
+    "motivo": "",
+    "mensagem": ""
   },
   "builds": {
     "1.6.0-20261109-1044": {
-      "status": "desativada",
-      "publicada": "2026-11-09 10:44",
-      "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-      "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-      "desde": "2026-11-12 17:10"
+      "status": "ativa",
+      "publicada": "2026-11-09 10:44"
     },
     "1.6.1-20261109-1052": {
-      "status": "desativada",
-      "publicada": "2026-11-09 10:52",
-      "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-      "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-      "desde": "2026-11-12 17:10"
+      "status": "ativa",
+      "publicada": "2026-11-09 10:52"
     },
     "1.6.2-20261109-1056": {
-      "status": "desativada",
-      "publicada": "2026-11-09 10:56",
-      "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-      "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-      "desde": "2026-11-12 17:10"
+      "status": "ativa",
+      "publicada": "2026-11-09 10:56"
     },
     "1.6.3-20261109-1407": {
-      "status": "desativada",
-      "publicada": "2026-11-09 14:08",
-      "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-      "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-      "desde": "2026-11-12 17:10"
+      "status": "ativa",
+      "publicada": "2026-11-09 14:08"
     },
     "1.6.4-20261109-1742": {
-      "status": "desativada",
-      "publicada": "2026-11-09 17:43",
-      "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-      "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-      "desde": "2026-11-12 17:10"
+      "status": "ativa",
+      "publicada": "2026-11-09 17:43"
     },
     "1.6.5-20261111-1621": {
-      "status": "desativada",
-      "publicada": "2026-11-11 16:22",
-      "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-      "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-      "desde": "2026-11-12 17:10"
+      "status": "ativa",
+      "publicada": "2026-11-11 16:22"
     },
     "1.6.6-20261112-1136": {
-      "status": "desativada",
-      "publicada": "2026-11-12 11:36",
-      "motivo": "motivos/2026-11-v1.7.0-atualizacao.md",
-      "mensagem": "Versoes anteriores a 1.7.0 foram desativadas. Baixe o AnyBox 1.7.0 para continuar.",
-      "desde": "2026-11-12 17:10"
+      "status": "ativa",
+      "publicada": "2026-11-12 11:36"
     },
     "1.7.0-20261112-1709": {
       "status": "ativa",
       "publicada": "2026-11-12 17:09"
     }
+  },
+  "atualizacao": {
+    "padrao": "sugerida",
+    "regras": []
   }
 }
